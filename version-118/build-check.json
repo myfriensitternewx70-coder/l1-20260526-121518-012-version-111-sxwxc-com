@@ -1,0 +1,19 @@
+{
+  "movie_count": 2000,
+  "detail_count": 2000,
+  "category_card_count": 2000,
+  "category_counts": {
+    "欧美经典": 250,
+    "高分精选": 250,
+    "剧情佳作": 250,
+    "动作冒险": 250,
+    "爱情喜剧": 250,
+    "悬疑惊悚": 250,
+    "家庭治愈": 250,
+    "全球影集": 250
+  },
+  "html_count": 2015,
+  "html_missing_baidu": [],
+  "jpg_count": 0,
+  "repaired_promptish_entries": 23
+}
